@@ -1,0 +1,6 @@
+this version 1 of my project
+i want this to go into commit 2master
+change by jay
+this change now
+hello everyone
+this from master
